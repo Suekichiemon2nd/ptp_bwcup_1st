@@ -3,7 +3,7 @@
 2024年11月23日(土) 14:00～
 
 ## 開催場所
-Discordサーバー：PokemonTCGPocket BigWave杯会場(https://discord.gg/tsTJ83rDSn)
+Discordサーバー：PokemonTCGPocket BigWave杯会場
 
 
 ## 参加準備
@@ -87,6 +87,8 @@ Discordサーバー：PokemonTCGPocket BigWave杯会場(https://discord.gg/tsTJ8
 
 - 以下のカードは1枚まで編成可能
 	- レッドカード
+
+	- カスミ
 
 - 必ずたねポケモンを4枚以上編成
 
